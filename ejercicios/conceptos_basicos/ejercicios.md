@@ -46,5 +46,3 @@ Crea un programa que:
 - Pida su año de nacimiento
 - Calcule y muestre su edad
 - Muestre un mensaje personalizado
-
-test
