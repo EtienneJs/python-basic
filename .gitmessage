@@ -1,0 +1,24 @@
+# Plantilla de mensaje de commit (ES)
+#
+# Estructura recomendada:
+# <tipo>(<área>): <resumen en presente>
+#
+# Tipos sugeridos:
+# - feat: nueva funcionalidad
+# - fix: corrección de bug
+# - docs: documentación
+# - refactor: refactor sin cambio funcional
+# - test: pruebas
+# - chore: mantenimiento/infra
+#
+# Ejemplos:
+# feat(ejercicios): añade ejercicios de estructuras de control
+# fix(strings): corrige ejemplo de slicing
+# docs(readme): actualiza tabla de contenidos
+#
+# Detalle (opcional, en viñetas):
+# - qué cambió y por qué
+# - impacto / consideraciones
+#
+# Referencias (opcional):
+# - Issue/PR: #123
